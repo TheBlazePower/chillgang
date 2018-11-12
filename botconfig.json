@@ -1,0 +1,8 @@
+{
+  "prefix" : "cg!",
+
+  "activity": {
+    "playing": false,
+    "game": "Tag Saya Untuk Prefix Command"
+  }
+}
